@@ -1,0 +1,15 @@
+{
+    "editor.fontSize": 18,
+    "workbench.editor.enablePreview": false,
+    "editor.codeLens": false,
+    "C_Cpp.updateChannel": "Insiders",
+    "editor.suggestSelection": "first",
+    "vsintellicode.modify.editor.suggestSelection": "automaticallyOverrodeDefaultValue",
+    "files.exclude": {
+        "**/.classpath": true,
+        "**/.factorypath": true,
+        "**/.project": true,
+        "**/.settings": true,
+        "**/node_modules/**": true
+    }
+}
