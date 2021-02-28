@@ -1,0 +1,7 @@
+amatiasq.sort-imports
+angular.ng-template
+dskwrk.vscode-generate-getter-setter
+esbenp.prettier-vscode
+formulahendry.auto-close-tag
+ms-dotnettools.csharp
+pkief.material-icon-theme
