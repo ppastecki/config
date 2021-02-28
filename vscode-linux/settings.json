@@ -2,9 +2,8 @@
     "editor.fontSize": 18,
     "workbench.editor.enablePreview": false,
     "editor.codeLens": false,
-    "C_Cpp.updateChannel": "Insiders",
     "editor.suggestSelection": "first",
-    "vsintellicode.modify.editor.suggestSelection": "automaticallyOverrodeDefaultValue",
+    "workbench.startupEditor": "newUntitledFile",
     "files.exclude": {
         "**/.classpath": true,
         "**/.factorypath": true,
